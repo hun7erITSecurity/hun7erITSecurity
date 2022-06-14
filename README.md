@@ -12,7 +12,7 @@ Commodore 64 | Schneider | IBM 286 | ... | etc.
 * 💻 Powershell
 * 💻 Python
 * 💻 Ansible
-* 
+
 ## Certifications
 [<img src='https://github.com/hun7erITSecurity/hun7erITSecurity/blob/main/MCSA-Windows%20Server%202016.png' alt='MCSA' height='120'>](https://github.com/hun7erITSecurity) 
 [<img src='https://github.com/hun7erITSecurity/hun7erITSecurity/blob/main/MCSE-Core_Infrastructure.png' alt='MCSE' height='120'>](https://github.com/hun7erITSecurity) 

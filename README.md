@@ -58,6 +58,9 @@ Since my childhood I have been involved with IT now almost 3 decades.
 ![FreeCodeCamp](https://img.shields.io/badge/-FreeCodeCamp-0A0A23?logo=FreeCodeCamp&logoColor=white&style=plastic&logoWidth=20)
 ![TryHackMe](https://img.shields.io/badge/-TryHackMe-212C42?logo=TryHackMe&logoColor=white&style=plastic&logoWidth=20)
 ![Hack The Box](https://img.shields.io/badge/-Hack%20The%20Box-gray?logo=Hack%20The%20Box&logoColor=9FEF00&style=plastic&logoWidth=20)
+![John Hammond](https://img.shields.io/badge/-John%20Hammond-FF0000?logo=Youtube&logoColor=white&style=plastic&logoWidth=20)
+![LearnLinuxTV](https://img.shields.io/badge/-LearnLinuxTV-FF0000?logo=Youtube&logoColor=white&style=plastic&logoWidth=20)
+
 
 ####  🤴 Developer/Forums
 ![Stack Overflow](https://img.shields.io/badge/-Stack_Overflow-F58025?logo=Stack%20Overflow&logoColor=white&style=plastic&logoWidth=20)

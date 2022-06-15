@@ -51,22 +51,16 @@ Since my childhood I have been involved with IT now almost 3 decades.
 ![SQLite](https://img.shields.io/badge/-SQLite-003B57?logo=SQLite&logoColor=white&style=plastic&logoWidth=20)
 
 ####  💻 Version Control
-
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?logo=Git&logoColor=white&style=plastic&logoWidth=20)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=GitHub&logoColor=white&style=plastic&logoWidth=20)
 
 ####  🧑‍🏫 Education
-
-![FreeCodeCamp](https://img.shields.io/badge/Freecodecamp-%23123.svg?&style=for-the-badge&logo=freecodecamp&logoColor=green)
+![FreeCodeCamp](https://img.shields.io/badge/-FreeCodeCamp-0A0A23?logo=FreeCodeCamp&logoColor=white&style=plastic&logoWidth=20)
+![TryHackMe](https://img.shields.io/badge/-TryHackMe-212C42?logo=TryHackMe&logoColor=white&style=plastic&logoWidth=20)
+![Hack The Box](https://img.shields.io/badge/-Hack%20The%20Box-gray?logo=Hack%20The%20Box&logoColor=9FEF00&style=plastic&logoWidth=20)
 
 ####  🤴 Developer/Forums
-
-![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)
-
-
-* 💻 Networking
-* 💻 Virtualization
-* 💻 IT-Security
-
+![Stack Overflow](https://img.shields.io/badge/-Stack_Overflow-F58025?logo=Stack%20Overflow&logoColor=white&style=plastic&logoWidth=20)
 
 
 ## Certifications

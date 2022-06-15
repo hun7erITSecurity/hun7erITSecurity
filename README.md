@@ -61,6 +61,7 @@ Since my childhood I have been involved with IT now almost 3 decades.
 ![John Hammond](https://img.shields.io/badge/-John%20Hammond-FF0000?logo=Youtube&logoColor=white&style=plastic&logoWidth=20)
 ![LearnLinuxTV](https://img.shields.io/badge/-LearnLinuxTV-FF0000?logo=Youtube&logoColor=white&style=plastic&logoWidth=20)
 
+<a href=”https://www.youtube.com/c/LearnLinuxtv"><img src=”https://img.shields.io/badge/-LearnLinuxTV-FF0000?logo=Youtube&logoColor=white&style=plastic&logoWidth=20"></a>
 
 ####  🤴 Developer/Forums
 ![Stack Overflow](https://img.shields.io/badge/-Stack_Overflow-F58025?logo=Stack%20Overflow&logoColor=white&style=plastic&logoWidth=20)

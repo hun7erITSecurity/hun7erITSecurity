@@ -35,12 +35,20 @@ Since my childhood I have been involved with IT now almost 3 decades.
 ![Kali Linux](https://img.shields.io/badge/-Kali%20Linux-557C94?logo=Kali%20Linux&logoColor=white&style=plastic&logoWidth=20)
 
 ####  🏢 Office
+![Microsoft Excel](https://img.shields.io/badge/-Microsoft%20Excel-217346?logo=Microsoft%20Excel&logoColor=white&style=plastic&logoWidth=20)
+![Microsoft Word](https://img.shields.io/badge/-Microsoft%20Word-2B579A?logo=Microsoft%20Word&logoColor=white&style=plastic&logoWidth=20)
+![Microsoft Powerpoint](https://img.shields.io/badge/-Microsoft%20Powerpoint-B7472A?logo=Microsoft%20PowerPoint&logoColor=white&style=plastic&logoWidth=20)
+![LibreOffice](https://img.shields.io/badge/-Libre%20Office-18A303?logo=LibreOffice&logoColor=white&style=plastic&logoWidth=20)
 
-![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white) ![Microsoft Word](https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white) ![Microsoft PowerPoint](https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white) ![LibreOffice](https://img.shields.io/badge/LibreOffice-%2318A303?style=for-the-badge&logo=LibreOffice&logoColor=white)
+#### 🖥️ Hypervisor/Vitualization
+![Hyper-V](https://img.shields.io/badge/-Hyper_V-0078D6?logo=Windows&logoColor=white&style=plastic&logoWidth=20)
+![VMware](https://img.shields.io/badge/-VMware-607078?logo=VMWare&logoColor=white&style=plastic&logoWidth=20)
+![Proxmox](https://img.shields.io/badge/-Proxmox-E57000?logo=Proxmox&logoColor=white&style=plastic&logoWidth=20)
 
 ####  💾 Databases
-
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=plastic&logoWidth=20)
+![MariaDB](https://img.shields.io/badge/-MariaDB-003545?logo=mariadb&logoColor=white&style=plastic&logoWidth=20)
+![SQLite](https://img.shields.io/badge/-SQLite-003B57?logo=SQLite&logoColor=white&style=plastic&logoWidth=20)
 
 ####  💻 Version Control
 
